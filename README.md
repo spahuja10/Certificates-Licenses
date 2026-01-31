@@ -27,4 +27,6 @@ Intro to Responsible AI:Exploration of ethics, fairness, and safety in the devel
 ## Operations & Professional Skills
 Fundamentals of Lean: Training in process optimization and waste reduction to improve organizational efficiency.
 
+Writer for Economics (Simran Pahuja _ ET): Wrote articales on real world problems and solutions to resolve them.
+
 
