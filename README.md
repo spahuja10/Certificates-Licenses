@@ -25,6 +25,5 @@ Fundamentals of Lean: Training in process optimization and waste reduction to im
 
 LLP Certificate: Understanding the legal and structural frameworks of Limited Liability Partnerships.
 
-Business Analytics (Simran Pahuja _ BA): Core competencies in identifying business needs and determining solutions to business problems.
+Business Analytics (Simran Pahuja _ BA): Training on Machine learning using Python Jupyter on different datasets.
 
-Emerging Technologies (Simran Pahuja _ ET): Overview of disruptive technologies and their impact on modern industry.
